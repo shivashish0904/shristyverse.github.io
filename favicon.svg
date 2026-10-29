@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
+  <title>ISHIZUE</title>
+  <rect x="1" y="1" width="48" height="48" rx="11" fill="#16181C"/>
+  <g transform="translate(7 7) scale(1.5)" fill="#FFF">
+    <path d="M7.5 3H19.5V15.75L13.5 18.75V9.75Z"/>
+    <path d="M4.5 11.25L10.5 8.25V18L16.5 21H4.5Z"/>
+  </g>
+</svg>
