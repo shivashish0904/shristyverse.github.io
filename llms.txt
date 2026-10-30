@@ -1,14 +1,12 @@
 # Shristyverse
 
-> Shristyverse GK builds SHINRAI, a local-first AI platform. ISHIZUE runs models, agents and memory on your own Macs and private servers, configured for each organisation. KOBO adds the specialist apps.
+> Shristyverse GK builds SHINRAI, a local-first AI platform. ISHIZUE runs models, agents and memory on hardware you control; KOBO plugins are in development.
 
-Development of SHINRAI, a local-first AI platform: ISHIZUE, an extensible AI harness, and KOBO, its family of specialist apps and plugins.
+Business: Development of SHINRAI, a local-first AI platform: ISHIZUE, an AI harness, and KOBO, specialist plugins for ISHIZUE.
 
-Our products carry Japanese words, written in English letters. Each name says what the part is for.
-
-- SHINRAI: From 信頼 (shinrai), trust. The platform as a whole: everything we build so that people can rely on the AI they work with. ISHIZUE and KOBO are part of SHINRAI.
-- ISHIZUE: From 礎 (ishizue), a foundation stone. The AI harness at the base. It brings models, agents, memory and permissions together on your hardware.
-- KOBO: From 工房 (kōbō), a workshop. The family of specialist apps and plugins that do the craft work on top of ISHIZUE.
+- SHINRAI: From the Japanese word shinrai, trust. The platform as a whole: what we build so that organisations can rely on the AI they work with. ISHIZUE and KOBO are part of it.
+- ISHIZUE: From ishizue, a foundation stone. The AI harness at the base. It brings models, routing, agents, memory and permissions together on hardware the organisation controls.
+- KOBO: From kōbō, a workshop. The plugins we are building in our workshop, to do specialist work on ISHIZUE.
 
 ISHIZUE is developer-preview software. Features marked in testing, in development, exploring or planned are not available yet.
 
@@ -18,36 +16,22 @@ Contact:
 - General: info@shristyverse.com
 - Support: support@shristyverse.com
 
-Shristyverse GKは、ローカルファーストのAIプラットフォーム「SHINRAI」を開発しています。ISHIZUEは、モデル・エージェント・記憶を貴社のMacやプライベートサーバー上で動かし、組織ごとに構成します。専門アプリはKOBOがそろえます。
+## English pages
 
-ローカルファーストのAIプラットフォーム「SHINRAI」の開発。拡張可能なAIハーネス「ISHIZUE」と、その専門アプリとプラグインの集まり「KOBO」。
+- [Home](https://shristyverse.com/en/): Shristyverse GK builds SHINRAI, a local-first AI platform. ISHIZUE runs models, agents and memory on hardware you control; KOBO plugins are in development.
+- [Products](https://shristyverse.com/en/products/): SHINRAI, the local-first AI platform, and its two parts: ISHIZUE, the AI harness, and KOBO, the plugins. Layers, set-ups, editions and the status of each part.
+- [ISHIZUE](https://shristyverse.com/en/products/ishizue/): How ISHIZUE routes requests to models on an organisation’s own hardware, decides with an auditable engine, shares work between agents and lists its network use.
+- [KOBO](https://shristyverse.com/en/products/kobo/): KOBO: six specialist plugins Shristyverse is building for ISHIZUE, for presentations, spreadsheets, Word documents, PDFs, website reviews and design.
+- [Partners](https://shristyverse.com/en/partners/): Bring your AI product to organisations that cannot send their data to the cloud: it joins SHINRAI as an ISHIZUE plugin or an MCP server on their machines.
+- [Company](https://shristyverse.com/en/company/): Shristyverse GK builds SHINRAI, a local-first AI platform with ISHIZUE and KOBO. Mission, company profile, the three names and how to reach us.
+- [Contact](https://shristyverse.com/en/contact/): Write to Shristyverse GK about SHINRAI, ISHIZUE and KOBO: sales and partnerships, general questions, or support. There is no form.
 
-製品名には日本語の言葉を選び、英字で表記しています。それぞれの名前が、その役割を表しています。
+## Japanese pages
 
-- SHINRAI：「信頼（しんらい）」から。プラットフォーム全体の名前です。人が安心して頼れるAIのために、私たちがつくるものすべてを指します。ISHIZUEとKOBOは、SHINRAIの一部です。
-- ISHIZUE：「礎（いしずえ）」から。建物を支える土台の石のことです。基盤となるAIハーネスです。モデル、エージェント、記憶、権限を、貴社のハードウェアの上でひとつにまとめます。
-- KOBO：「工房（こうぼう）」から。ものづくりの仕事場のことです。ISHIZUEの上で専門の仕事を担う、アプリとプラグインの集まりです。
-
-ISHIZUEは開発者プレビュー段階のソフトウェアです。「検証中」「開発中」「検討中」「計画中」と記した機能は、まだご利用いただけません。
-
-お問い合わせ：
-
-- 導入・パートナーシップ：sales@shristyverse.com
-- 一般：info@shristyverse.com
-- サポート：support@shristyverse.com
-
-## English
-
-- [Home](https://shristyverse.com/en/): Shristyverse GK builds SHINRAI, a local-first AI platform. ISHIZUE runs models, agents and memory on your own Macs and private servers, configured for each organisation. KOBO adds the specialist apps.
-- [ISHIZUE](https://shristyverse.com/en/ishizue/): How ISHIZUE routes each request to a model on your own hardware, decides with an auditable engine, shares work between agents, keeps memory you can inspect, and is configured for each organisation.
-- [KOBO](https://shristyverse.com/en/kobo/): Search the KOBO catalogue of ISHIZUE capabilities and plugins: documents, spreadsheets, PDFs, reviews and design, each with its current status.
-- [Build with us](https://shristyverse.com/en/build/): For AI startups, model makers and integrators: bring your product to organisations that run AI on their own hardware, as an MCP server or an ISHIZUE plugin.
-- [Company](https://shristyverse.com/en/company/): Shristyverse GK is an AI company in Saitama, Japan, building SHINRAI, a local-first AI platform made of ISHIZUE and KOBO. Mission, company profile and contact.
-
-## 日本語
-
-- [ホーム](https://shristyverse.com/ja/): Shristyverse GKは、ローカルファーストのAIプラットフォーム「SHINRAI」を開発しています。ISHIZUEは、モデル・エージェント・記憶を貴社のMacやプライベートサーバー上で動かし、組織ごとに構成します。専門アプリはKOBOがそろえます。
-- [ISHIZUE](https://shristyverse.com/ja/ishizue/): ISHIZUEが、リクエストを自社のハードウェア上のモデルへどう振り分け、監査できるエンジンでどう判断し、エージェントでどう仕事を分担し、確かめられる記憶をどう保ち、組織ごとにどう構成されるのかを紹介します。
-- [KOBO](https://shristyverse.com/ja/kobo/): ISHIZUEの機能とプラグインを集めたKOBOのカタログを検索できます。文書、表計算、PDF、レビュー、デザインなど、それぞれ現在の提供状況つきで掲載しています。
-- [共創・開発](https://shristyverse.com/ja/build/): AIスタートアップ、モデルや計算資源の提供企業、システムインテグレーターの皆さまへ。自社のハードウェアでAIを動かす組織に、MCPサーバーやISHIZUEのプラグインとして貴社のプロダクトを届けられます。
-- [会社情報](https://shristyverse.com/ja/company/): スリスティバース合同会社（Shristyverse GK）は、埼玉県桶川市のAI企業です。ISHIZUEとKOBOからなるローカルファーストのAIプラットフォーム「SHINRAI」を開発しています。ミッション、会社概要、お問い合わせ先。
+- [Home, in Japanese](https://shristyverse.com/ja/): The Home page in Japanese.
+- [Products, in Japanese](https://shristyverse.com/ja/products/): The Products page in Japanese.
+- [ISHIZUE, in Japanese](https://shristyverse.com/ja/products/ishizue/): The ISHIZUE page in Japanese.
+- [KOBO, in Japanese](https://shristyverse.com/ja/products/kobo/): The KOBO page in Japanese.
+- [Partners, in Japanese](https://shristyverse.com/ja/partners/): The Partners page in Japanese.
+- [Company, in Japanese](https://shristyverse.com/ja/company/): The Company page in Japanese.
+- [Contact, in Japanese](https://shristyverse.com/ja/contact/): The Contact page in Japanese.
