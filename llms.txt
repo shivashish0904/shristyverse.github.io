@@ -1,6 +1,6 @@
 # Shristyverse
 
-> Shristyverse GK builds SHINRAI, a local-first AI platform. ISHIZUE runs models, agents and memory on hardware you control; KOBO plugins are in development.
+> Shristyverse GK, in Japan, builds SHINRAI: a local-first AI platform for on-device and on-premises work. ISHIZUE runs models, agents and memory on hardware you control; KOBO plugins are in development.
 
 Business: Development of SHINRAI, a local-first AI platform: ISHIZUE, an AI harness, and KOBO, specialist plugins for ISHIZUE.
 
@@ -18,10 +18,12 @@ Contact:
 
 ## English pages
 
-- [Home](https://shristyverse.com/en/): Shristyverse GK builds SHINRAI, a local-first AI platform. ISHIZUE runs models, agents and memory on hardware you control; KOBO plugins are in development.
+- [Home](https://shristyverse.com/en/): Shristyverse GK, in Japan, builds SHINRAI: a local-first AI platform for on-device and on-premises work. ISHIZUE runs models, agents and memory on hardware you control; KOBO plugins are in development.
 - [Products](https://shristyverse.com/en/products/): SHINRAI, the local-first AI platform, and its two parts: ISHIZUE, the AI harness, and KOBO, the plugins. Layers, set-ups, editions and the status of each part.
 - [ISHIZUE](https://shristyverse.com/en/products/ishizue/): How ISHIZUE routes requests to models on an organisation’s own hardware, decides with an auditable engine, shares work between agents and lists its network use.
 - [KOBO](https://shristyverse.com/en/products/kobo/): KOBO: six specialist plugins Shristyverse is building for ISHIZUE, for presentations, spreadsheets, Word documents, PDFs, website reviews and design.
+- [Demos](https://shristyverse.com/en/demos/): Watch ISHIZUE route a request step by step, and see the six desktop tasks being recorded: files, documents, agents, knowledge, schedules and the record.
+- [Use cases](https://shristyverse.com/en/use-cases/): Three illustrative ISHIZUE editions for Japanese organisations: legal, finance and manufacturing. Each shows the modes, skills, knowledge and models we would configure.
 - [Partners](https://shristyverse.com/en/partners/): Bring your AI product to organisations that cannot send their data to the cloud: it joins SHINRAI as an ISHIZUE plugin or an MCP server on their machines.
 - [Company](https://shristyverse.com/en/company/): Shristyverse GK builds SHINRAI, a local-first AI platform with ISHIZUE and KOBO. Mission, company profile, the three names and how to reach us.
 - [Contact](https://shristyverse.com/en/contact/): Write to Shristyverse GK about SHINRAI, ISHIZUE and KOBO: sales and partnerships, general questions, or support. There is no form.
@@ -32,6 +34,8 @@ Contact:
 - [Products, in Japanese](https://shristyverse.com/ja/products/): The Products page in Japanese.
 - [ISHIZUE, in Japanese](https://shristyverse.com/ja/products/ishizue/): The ISHIZUE page in Japanese.
 - [KOBO, in Japanese](https://shristyverse.com/ja/products/kobo/): The KOBO page in Japanese.
+- [Demos, in Japanese](https://shristyverse.com/ja/demos/): The Demos page in Japanese.
+- [Use cases, in Japanese](https://shristyverse.com/ja/use-cases/): The Use cases page in Japanese.
 - [Partners, in Japanese](https://shristyverse.com/ja/partners/): The Partners page in Japanese.
 - [Company, in Japanese](https://shristyverse.com/ja/company/): The Company page in Japanese.
 - [Contact, in Japanese](https://shristyverse.com/ja/contact/): The Contact page in Japanese.
